@@ -6,7 +6,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/hadia-aqeel
 
 ## 🌱 Introduction
-Psychology student 🧠 exploring how young minds grow and how tech can support mental well-being.
+Psych student 🧠 exploring how young minds grow and how tech can support mental well-being.
 
 ## 🛠️ Skills & Tools
 - Git & GitHub
